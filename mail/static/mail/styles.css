@@ -3,10 +3,10 @@ textarea {
 }
 
 .read {
-      background-color:#d7d7d7;
+      background-color: white;
 }
 
 
 .unread {
-    background-color: white;
+    background-color: #d3d3d3;
 }
