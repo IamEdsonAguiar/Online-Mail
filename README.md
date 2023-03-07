@@ -5,11 +5,14 @@ A web version of mail .
 Online mail is a web version of mail, which allows users to communicate quickly and online on the web, without
 having the app installed on their device. 
 
-![jp6](https://user-images.githubusercontent.com/106551525/223281888-ed8b2f19-1a60-47f2-b740-ca2beebeb55f.png)
 
-![jp7](https://user-images.githubusercontent.com/106551525/223281961-e2843fb6-8b4c-4c96-99a0-47530f1e8c55.png)
+![jp5](https://user-images.githubusercontent.com/106551525/223286414-47592bff-c695-49d3-8cbf-544e3c7ae206.png)
 
-![jp8](https://user-images.githubusercontent.com/106551525/223282021-c267565c-51f7-4261-9ce2-189b2fe0bead.png)
+![jp4](https://user-images.githubusercontent.com/106551525/223286346-975172f1-dbe1-4556-b995-038cc5ea30c9.png)
+
+![jp6](https://user-images.githubusercontent.com/106551525/223286465-8ccdbb9b-99ad-4785-ab44-5f70b14e1348.png)
+
+![jp7](https://user-images.githubusercontent.com/106551525/223286526-4ce37f0c-f3d1-44af-8247-e4ad49e09a54.png)
 
 
 
