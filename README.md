@@ -1,4 +1,4 @@
-# Online-Mail
+# Online Mail
 A web version of mail .
 
 ## Description
