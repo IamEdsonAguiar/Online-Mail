@@ -17,7 +17,6 @@ having the app installed on their device.
 
 
 
+## Author
 
-
-
-
+* <a href="mailto:iamedsonaguiar@gmail.com">Edson Aguiar</a>
